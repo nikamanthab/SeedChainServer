@@ -10,12 +10,18 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.0",
+    "bestzip": "^2.1.4",
     "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "ipfs": "^0.36.4",
     "ipfs-api": "^26.1.2",
+    "jszip": "^3.2.1",
     "request": "^2.88.0",
     "rimraf": "^2.6.3",
-    "zip-folder": "^1.0.0"
+    "socket.io": "^2.2.0",
+    "targz": "^1.0.1",
+    "zip-folder": "^1.0.0",
+    "zip-local": "^0.3.4"
   }
 }
